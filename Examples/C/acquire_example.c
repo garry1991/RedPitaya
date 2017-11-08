@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#include <rp.h>
+#include <redpitaya/rp.h>
 
 #include <sys/time.h>
 
